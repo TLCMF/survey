@@ -1,6 +1,9 @@
-# Survey of LLM-Centric Multimodal Fusion Models
+# Towards LLM-Centric Multimodal Fusion : A Survey on Integration Strategies and Techniques
 
 This repository contains a curated list of papers related to the survey on LLM-Centric Multimodal Fusion. The table below provides details for each paper, including links to the paper, tags based on their architecture, and citation information.
+
+![Timeline of Major Developments in Multimodal Architectures](./timeline.png)
+
 
 | Paper Title | Year | Tags | Citation |
 |:--- |:--- |:--- |:--- |
