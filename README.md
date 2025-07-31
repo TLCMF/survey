@@ -4,7 +4,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2506.04788-darkred)](https://arxiv.org/abs/2506.04788)
 [![alphaXiv likes](https://img.shields.io/badge/alphaXiv%20♥-202-B31B1B)](https://alphaxiv.org/abs/2506.04788)
 
-This repository contains a curated list of papers related to the survey on LLM-Centric Multimodal Fusion. The table below provides details for each paper, including links to the paper, tags based on their architecture, and citation information.
+This repository contains a curated list of papers related to the survey "[Towards LLM-Centric Multimodal Fusion : A Survey on Integration Strategies and Techniques](https://arxiv.org/abs/2506.04788)". The table below provides details for each paper, including links to the paper, tags based on their architecture, and citation information.
 
 ![Timeline of Major Developments in Multimodal Architectures](./timeline.png)
 
