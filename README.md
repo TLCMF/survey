@@ -1,3 +1,9 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+![](https://img.shields.io/github/last-commit/TLCMF/survey?color=green) 
+[![](https://img.shields.io/badge/PRs-Welcome-%23FF4500)](https://github.com/TLCMF/survey)
+![](https://img.shields.io/github/stars/TLCMF/survey?color=yellow)
+![](https://img.shields.io/github/forks/TLCMF/survey?color=lightblue)
+
 # Towards LLM-Centric Multimodal Fusion : A Survey on Integration Strategies and Techniques
 
 This repository contains a curated list of papers related to the survey "Towards LLM-Centric Multimodal Fusion : A Survey on Integration Strategies and Techniques". The table below provides details for each paper, including links to the paper, tags based on their architecture, and citation information.
